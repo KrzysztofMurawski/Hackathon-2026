@@ -1,0 +1,38 @@
+# Python
+
+**pycache**/
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+
+venv/
+.env/
+
+# Environment variables
+
+.env
+.env.*
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
+
+# IDE (optional but safe)
+
+.vscode/
+.idea/
+
+# Client (if you later add Node/Expo/Flutter)
+
+node_modules/
+.expo/
+dist/
+build/
